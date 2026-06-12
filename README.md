@@ -16,7 +16,7 @@ A desktop chatbot application built with Python and Tkinter, powered by Anthropi
 
 ## Screenshot
 
-<img width="990" height="1027" alt="Στιγμιότυπο οθόνης 2026-06-11 133835" src="https://github.com/user-attachments/assets/5ecb5ca7-2197-4e89-bf88-746f0bfb9c3b" />
+<img width="1001" height="1033" alt="image" src="https://github.com/user-attachments/assets/f1682c9b-bad5-4634-ab8a-d2f34264edd3" />
 
 ## Prerequisites
 
